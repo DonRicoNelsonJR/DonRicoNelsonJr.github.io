@@ -74,11 +74,12 @@ footer{
 footer p.copyright{
     text-align: center;
     font-size: 80%}
-    p.fixed{
-        width: auto;
-        position: fixed;
-        bottom: 35%;
-        right: 0%;
-        border: 3px solid darkgreen;
-        background-color: lightgreen;
-    }
+p.fixed{
+    width: auto;
+    position: fixed;
+    bottom: 35%;
+    right: 0%;
+    border: 3px solid darkgreen;
+    background-color: lightgreen;
+    padding: 2em;
+}
