@@ -94,4 +94,12 @@ html, body {
         text-decoration: none;
     }
         
-    
+    article {
+        padding: 1em;
+    }
+    article h2{
+        font-size: 1.25em;
+    }
+    article p{
+        font-size: 1em;
+    }
