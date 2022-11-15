@@ -54,3 +54,14 @@ html, body {
         border-bottom: 2px solid purple;
         vertical-align: top;
     }
+    @media only screen and (max-width: 425px)  {
+        th, td {
+            display: block;
+        }
+        thead, td.number {
+            display: none;
+            padding: 0;
+        }    
+    }
+    
+    
